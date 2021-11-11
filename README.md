@@ -13,7 +13,7 @@ This is a solution template for creating a Single Page App (SPA) with Angular an
 ## Learn about Clean Architecture
 
 [![Clean Architecture with ASP.NET Core 3.0 • Jason Taylor • GOTO 2019](https://img.youtube.com/vi/dK4Yb6-LxAk/0.jpg)](https://www.youtube.com/watch?v=dK4Yb6-LxAk)
-
+[Github Link](https://github.com/jasontaylordev/CleanArchitecture)
 ## Technologies
 
 * [ASP.NET Core 6](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0)
